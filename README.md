@@ -1,4 +1,9 @@
+PLEASE USE THE FULLCALENDAR OFICIAL ANGULAR: 
+* https://github.com/fullcalendar/fullcalendar-angular
+
+
 # Angular fullcalendar module
+
 Jquery fullcalendar module [FullCalendar](https://fullcalendar.io) 
 
 This package wraps the fullcalendar module for Angular.
